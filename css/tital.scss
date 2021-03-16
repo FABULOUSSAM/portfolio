@@ -20,3 +20,16 @@
     -webkit-filter: hue-rotate(-360deg);
   }
 }
+.headervaluenew{
+	font-family:Brush Script MT;
+	font-size: 3rem;
+	font-weight:  100;
+	letter-spacing: 2px;
+	text-align: center;
+	color: #f35626;
+	margin-top: -5px;
+	background-image: -webkit-linear-gradient(92deg, #e1eec3, #f05053);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-animation: hue 10s infinite linear;
+}

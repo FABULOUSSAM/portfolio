@@ -904,3 +904,12 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #1ee2e7;
 }
+
+@media only screen and (max-width: 650px) {
+ svg symbol {
+   display: none;
+ };
+ header{
+   font-size: auto;
+ }
+}
